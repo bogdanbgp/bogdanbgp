@@ -1,6 +1,6 @@
 **heeellooooo, I am Bogdan👋**
 
-# # junior developer
+^junior developer
 
 - 🔭 I’m currently working on my first professional website
 - 🌱 I’m currently learning everything programming-related; I am curious about all that's frontend & backend
