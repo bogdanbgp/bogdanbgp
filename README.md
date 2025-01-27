@@ -1,12 +1,14 @@
-**heeellooooo, I am Bogdan👋**
+**Heeellooooo, I am Bogdan👋**
 
 ^junior developer
 
-- 🔭 I’m currently working on my first professional website
-- 🌱 I’m currently learning everything
-- 📫 How to reach me: ...try X 😄 x.com/THEbogdyhh
+- 🔭 I’m currently working on a community website
+- 🌱 I’m currently learning ...everything (atm Node, Vite, JS, React)
+- 📫 How to reach me: x.com/THEbogdyhh
 - ⚡ Fun fact: I like... ART. graphic. abstract. underground. visuals. movies. cinematography. tv. video games. cartoons. fashion design. drawings. paintings. music. 👀
 
 
-Website: coming soon...
+Personal website: not available yet
+
+
 
